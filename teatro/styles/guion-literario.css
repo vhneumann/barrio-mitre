@@ -1,0 +1,60 @@
+  * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+h1, h2 {
+  width:90%;
+  line-height: 2rem;
+  font-weight: 400;
+  text-align: center;
+  padding: 0.5rem 0;
+}
+
+h1 {
+  background-color: #bbd;
+  color: #000;
+  margin: 2rem auto 1rem auto;
+}
+
+h2 {
+  background-color: #004D72;
+  color: #fff;
+  margin: 0 auto;
+}
+
+p {
+  width: 90%;
+  font-style: normal;
+  padding: 0;
+  text-align: left;
+  margin: 0.5rem auto;
+}
+
+p.escena {
+  width: 90%;
+  font-style: italic;
+  padding: 0;
+  text-align: left;
+  margin: 1rem auto;
+}
+
+p.dialogo {
+  width: 90%;
+  font-family: "Courier New";
+  font-style: normal;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0;
+  margin: 0.5rem auto;
+}
